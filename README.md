@@ -3,8 +3,7 @@
 This is a test exercise by [Software Engineer Daniel Silva Jiménez](https://www.linkedin.com/in/daniel-silva-jim%C3%A9nez-12871653) for the Lateral Group evaluation.
 
 Objective:
-Build a small task management API and frontend that supports creating, viewing, and toggling
-the status of tasks.
+Build a small task management API and frontend that supports creating, viewing, and toggling the status of tasks.
 
 ## Technologies
 
